@@ -42,13 +42,35 @@ Modular JavaScript authoring suite for an Oxford University-born research platfo
 - 📜 CSM Certified Scrum Master
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rhassank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rhassank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhassank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Analytics & Activity
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- GitHub Stats -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhassank&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhassank&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+<!-- GitHub Contribution Activity Graph -->
+<p align="center">
+  <a href="https://github.com/rhassank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhassank&theme=react-dark&hide_border=true&area=true" width="100%" />
+  </a>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rhassank&theme=dark&hide_border=true" width="70%" />
+</p>
+
+<!-- GitHub Profile Summary -->
+<p align="center">
+  <a href="https://github.com/rhassank">
+    <img src="https://img.shields.io/badge/GitHub-View%20Complete%20Activity-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<!-- Private Contributions -->
+<!-- Enable "Include private contributions" in GitHub Contribution settings -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
